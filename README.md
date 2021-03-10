@@ -20,11 +20,7 @@
 [<img align="left" alt="Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/instagram.svg"/>][instagram]
 
-<br/>
-
----
-
-### Languages and Tools: 
+### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
@@ -33,6 +29,16 @@
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+
+<br/>
+
+---
+
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avik013&hide=contribs,prs&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avik013)]()
 
 [facebook]: https://www.facebook.com/gukasyan.sp
 [twitter]: https://twitter.com/mr_dev_a13

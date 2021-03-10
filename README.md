@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi everyone👋
 
-
-[![Hello World](./image/HelloWorld.png)](https://www.youtube.com/watch?v=Y1z7_GfEPiE&t=314s)
-
+[![Hello World](./image/HelloWorld.png)](https://github.com/Avik013)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,3 +10,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+---

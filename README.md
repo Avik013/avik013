@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Hello World](/HelloWorld.png)
+![Hello World](./image/HelloWorld.png)
 
 
 - 🔭 I’m currently working on ...

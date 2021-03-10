@@ -12,3 +12,7 @@
 - ⚡ Fun fact: ...
 
 ---
+
+### Connect with me:
+
+<img align="left" alt="Facebook.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/facebook.svg"/>

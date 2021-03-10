@@ -15,4 +15,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="Facebook.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/facebook.svg"/>
+[<img align="left" alt="Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/instagram.svg"/>][instagram]

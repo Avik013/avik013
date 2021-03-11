@@ -1,6 +1,6 @@
-### Hi Everyone👋
-
 [![Hello World](./image/HelloWorld.png)](https://github.com/Avik013)
+
+### Hi Everyone👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,6 +20,8 @@
 [<img align="left" alt="Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/instagram.svg"/>][instagram]
 
+<br/>
+
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -36,9 +38,7 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avik013&hide=contribs,prs&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avik013)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avik013&show_icons=true&theme=graywhite)](https://github.com/Avik013?tab=repositories) [![Avik013's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avik013&hide=contribs,prs&show_icons=true&theme=graywhite)](https://github.com/Avik013?tab=repositories) 
 
 [facebook]: https://www.facebook.com/gukasyan.sp
 [twitter]: https://twitter.com/mr_dev_a13

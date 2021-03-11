@@ -1,15 +1,14 @@
 [![Hello World](./image/HelloWorld.png)](https://github.com/Avik013)
 
-### Hi Everyone👋
+### Hi Everyone <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 👨🏻‍💻 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm currently working on my website. 🌎
+- 🌱 I’m currently learning TypeScript.
+- 🤝 I’m looking to collaborate in a company where I can learn a lot. 🏢
+- ⚡ Fun fact: I like to play and watch football, sometimes I play the guitar. ⚽️ 🎸
+
+[<img class="_2s-6_" src="https://64.media.tumblr.com/324741609b38b9b6b1fc45620ccbef5d/tumblr_pj8goclHdM1w3y4ilo2_r3_100.gifv 100w, https://64.media.tumblr.com/324741609b38b9b6b1fc45620ccbef5d/tumblr_pj8goclHdM1w3y4ilo2_r3_250.gifv 250w, https://64.media.tumblr.com/324741609b38b9b6b1fc45620ccbef5d/tumblr_pj8goclHdM1w3y4ilo2_r3_400.gifv 400w, https://64.media.tumblr.com/324741609b38b9b6b1fc45620ccbef5d/tumblr_pj8goclHdM1w3y4ilo2_r3_500.gifv 500w, https://64.media.tumblr.com/324741609b38b9b6b1fc45620ccbef5d/tumblr_pj8goclHdM1w3y4ilo2_r3_540.gifv 540w, https://64.media.tumblr.com/324741609b38b9b6b1fc45620ccbef5d/tumblr_pj8goclHdM1w3y4ilo2_r3_640.gifv 600w" sizes="(max-width: 600px) 100vw, 600px" alt="Image" role="img" loading="lazy">]
+
 
 ---
 
@@ -36,9 +35,8 @@
 
 ---
 
-<br/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avik013&show_icons=true&theme=graywhite)](https://github.com/Avik013?tab=repositories) [![Avik013's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avik013&hide=contribs,prs&show_icons=true&theme=graywhite)](https://github.com/Avik013?tab=repositories) 
+
 
 [facebook]: https://www.facebook.com/gukasyan.sp
 [twitter]: https://twitter.com/mr_dev_a13

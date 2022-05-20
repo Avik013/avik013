@@ -1,6 +1,7 @@
 [![Hello World](./image/HelloWorld.png)](https://github.com/Avik013)
 
-### Hi Everyone <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">👨🏻‍💻
+### Hi Everyone 
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 👨🏻‍💻 
 <img align="right" alt="GIF" src="./image/7edeb9b7269feb6defbf598fafc05f5f.gif" border-radius="20px" width="200" height="300"/>
 
 - 🔭 I'm currently working on my website. 🌎

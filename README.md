@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1400&lines=Hi+Everyone%2C+I'm+A13+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+Front-End+developer+from+Armenia+%F0%9F%93%8C;I+like+the+profession+of+a+developer+%F0%9F%98%8E;To+develop+and+learn+is+My+passion+%E2%9C%85;Thank+You+for+visiting+my+github+page+%F0%9F%91%8D%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1400&height=70&lines=Hi+Everyone%2C+I'm+A13+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+Front-End+developer+from+Armenia+%F0%9F%93%8C;I+like+the+profession+of+a+developer+%F0%9F%98%8E;To+develop+and+learn+is+My+passion+%E2%9C%85;Thank+You+for+visiting+My+gGitHub+page+%F0%9F%91%8D%F0%9F%8F%BB)](https://git.io/typing-svg)
+
+<br/>
 
 - 🔭 I’m currently working on **project name**
 
@@ -30,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avik013&show_icons=true&locale=en&layout=compact" alt="avik013" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=avik013&show_icons=true&locale=en" alt="avik013" /></p>
+<span>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=avik013&show_icons=true&locale=en" alt="avik013" /></span>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=avik013&" alt="avik013" /></p>
+<span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=avik013&" alt="avik013" /></span>
 

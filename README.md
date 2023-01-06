@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1400&height=70&lines=Hi+Everyone%2C+I'm+Avik+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+Front-End+developer+from+Armenia+%F0%9F%93%8C;I+like+the+profession+of+a+developer+%F0%9F%98%8E;To+develop+and+learn+is+My+passion+%E2%9C%85;Thank+You+for+visiting+My+GitHub+page+%F0%9F%91%8D%F0%9F%8F%BB)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1400&height=70&lines=Hi+Everyone%2C+I'm+Avik+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+Front-End+developer+from+Armenia+%F0%9F%93%8C;I+like+the+profession+of+a+developer+%F0%9F%98%8E;To+develop+and+learn+is+My+passion+%E2%9C%85;Thank+You+for+visiting+My+GitHub+page+%F0%9F%91%8D%F0%9F%8F%BB)
 
 <details>
   <summary>

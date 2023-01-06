@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1400&height=70&lines=Hi+Everyone%2C+I'm+Avik+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+Front-End+developer+from+Armenia+%F0%9F%93%8C;I+like+the+profession+of+a+developer+%F0%9F%98%8E;To+develop+and+learn+is+My+passion+%E2%9C%85;Thank+You+for+visiting+My+GitHub+page+%F0%9F%91%8D%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-<br/>
-
 <details>
   <summary>
-    <h4 style="display: inline">✨&nbsp; About Me: 
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="6%"/>
-    </h4>
+    <h3 style="display: inline">✨&nbsp; About Me: 
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8%"/>
+    </h3>
   </summary>
 
 - 🔭 I’m currently working on **My personal page**
@@ -18,15 +16,15 @@
 - 💬  Ask me about anything related to **Js / Ts / Jsx / Html / Css / Scss **
 
 - 📝 I regularly read books by
-> 1. Mark Tielens Thomas about React in action
+    > 1. Mark Tielens Thomas about React in action
 
-> 2. R. Mark Volkmann about Svelte and Sapper in action
+    > 2. R. Mark Volkmann about Svelte and Sapper in action
 
 - 📚 I have finished these books
-> ...
+    > ...
 </details>
 
-<h4 align="left">🔗&nbsp; Connect with Me:</h4>
+<h3 align="left">🔗&nbsp; Connect with Me:</h3>
 <p align="left">
     <a href="https://twitter.com/mr_dev_a13" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_dev_a13" height="30" width="40" />
@@ -42,7 +40,7 @@
     </a>
 </p>
 
-<h4 align="left">🛠️&nbsp; Languages and Tools:</h4>
+<h3 align="left">🛠️&nbsp; Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
@@ -94,7 +92,7 @@
     </a> 
 </p>
 
-<h4 align="left">📈&nbsp; Language / Framework stats:</h4> 
+<h3 align="left">📈&nbsp; Language / Framework stats:</h3> 
 <p>
   <img width="49.2%" src="https://github-readme-stats.vercel.app/api?username=avik013&show_icons=true&locale=en&layout=compact" alt="avik013" />
   <img width="49.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=avik013&layout=compact" alt="avik013" />

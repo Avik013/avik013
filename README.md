@@ -13,12 +13,12 @@
 
 - 👨‍💻  Read more about my projects at (In progress 🖋).
 
-- 💬  Ask me about anything related to **Js / Ts / Jsx / Html / Css / Scss **
+- 💬  Ask me about anything related to **Js** / **Ts** / **Jsx** / **Html** / **Css** / **Scss**
 
 - 📝 I regularly read books by
-    > 1. Mark Tielens Thomas about React in action
+    > 1 => Mark Tielens Thomas about React in action
 
-    > 2. R. Mark Volkmann about Svelte and Sapper in action
+    > 2 => R. Mark Volkmann about Svelte and Sapper in action
 
 - 📚 I have finished these books
     > ...

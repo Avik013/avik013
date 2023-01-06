@@ -2,23 +2,31 @@
 
 <br/>
 
-- 🔭 I’m currently working on **project name**
+<details>
+  <summary>
+    <h4 style="display: inline">✨&nbsp; About Me: 
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="6%"/>
+    </h4>
+  </summary>
 
-- 🌱 I’m currently learning **Svelte**
+- 🔭 I’m currently working on **My personal page**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 🌱 I’m currently learning **Svelte, React Native, Jest.js**
 
-- 📝 I regularly write articles on [blogl link](blogl link)
+- 👨‍💻  Read more about my projects at (In progress 🖋).
 
-- 💬 Ask me about **React**
+- 💬  Ask me about anything related to **Js / Ts / Jsx / Html / Css / Scss **
 
-- 📫 How to reach me **gukasyan.spa@gmail.com**
+- 📝 I regularly read books by
+> 1. Mark Tielens Thomas about React in action
 
-- 📄 Know about my experiences [resume link](resume link)
+> 2. R. Mark Volkmann about Svelte and Sapper in action
 
-- ⚡ Fun fact **fun fact**
+- 📚 I have finished these books
+> ...
+</details>
 
-<h3 align="left">Connect with Me</h3>
+<h4 align="left">🔗&nbsp; Connect with Me:</h4>
 <p align="left">
     <a href="https://twitter.com/mr_dev_a13" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_dev_a13" height="30" width="40" />
@@ -34,8 +42,7 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
+<h4 align="left">🛠️&nbsp; Languages and Tools:</h4>
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
@@ -87,6 +94,7 @@
     </a> 
 </p>
 
+<h4 align="left">📈&nbsp; Language / Framework stats:</h4> 
 <p>
   <img width="49.2%" src="https://github-readme-stats.vercel.app/api?username=avik013&show_icons=true&locale=en&layout=compact" alt="avik013" />
   <img width="49.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=avik013&layout=compact" alt="avik013" />

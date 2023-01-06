@@ -3,7 +3,7 @@
 <details>
   <summary>
     <h3 style="display: inline">✨&nbsp; About Me: 
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8%"/>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8%" alt="giphy"/>
     </h3>
   </summary>
 
@@ -16,12 +16,22 @@
 - 💬  Ask me about anything related to **Js** / **Ts** / **Jsx** / **Html** / **Css** / **Scss**
 
 - 📝 I regularly read books by
-    > 1 => Mark Tielens Thomas about React in action
-
-    > 2 => R. Mark Volkmann about Svelte and Sapper in action
+  ``` javascript 
+    const getReadBooks = () => {
+      return {
+        "Mark Tielens Thomas": "ReactInAction",
+        "R. Mark Volkmann": "SvelteAndSapperInAction"
+      }
+    }
+  ```
 
 - 📚 I have finished these books
-    > ...
+  ``` javascript 
+    const getFinishedBooks = () => {
+      return null
+    }
+  ```
+
 </details>
 
 <h3 align="left">🔗&nbsp; Connect with Me:</h3>

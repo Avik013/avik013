@@ -2,7 +2,7 @@
 
 <details>
   <summary>
-    <h3 style="display: inline">✨&nbsp; About Me: 
+    <h3 style="display: inline">&nbsp;✨&nbsp; About Me: 
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8%" alt="giphy"/>
     </h3>
   </summary>

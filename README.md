@@ -109,7 +109,5 @@
 </p>
 
 <p>
-  <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?/username=avik013&show_icons=true&locale=en&layout=compact"          alt="avik013" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avik013)](https://github.com/avik013/github-readme-stats)
-
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=avik013&show_icons=true&locale=en&layout=compact" alt="avik013" />
 </p>

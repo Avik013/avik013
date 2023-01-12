@@ -104,10 +104,10 @@
 
 <h3 align="left">📈&nbsp; Language / Framework stats:</h3> 
 <p>
-  <img width="49.2%" src="https://github-readme-stats.vercel.app/api?user=avik013&show_icons=true&locale=en&layout=compact" alt="avik013" />
+  <img width="49.2%" src="https://github-readme-stats.vercel.app/api?username=avik013&show_icons=true&locale=en&layout=compact" alt="avik013" />
   <img width="49.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=avik013&layout=compact" alt="avik013" />
 </p>
 
 <p>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?user=avik013&show_icons=true&locale=en&layout=compact" alt="avik013" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=avik013&show_icons=true&locale=en&layout=compact" alt="avik013" />
 </p>

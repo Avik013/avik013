@@ -81,10 +81,7 @@
     </a> 
     <a href="https://svelte.dev" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="30" height="30"/> 
-    </a> 
-    <a href="https://sapper.svelte.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg" alt="sapper" width="30" height="30"/> 
-    </a> 
+    </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
     </a> 

@@ -108,6 +108,6 @@
 <p>
   <img 
        width="100%" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=avik013&show_icons=true&locale=en&layout=compact"              alt="A13-Cloud"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=A13-Cloud&show_icons=true&locale=en&layout=compact"              alt="A13-Cloud"
   />
 </p>

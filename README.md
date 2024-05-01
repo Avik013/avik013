@@ -31,6 +31,9 @@
     }
   ```
 </details>
+
+<h3 align="left">🔗 Connect with Me:</h3>
+
 <p align="left">
     <a href="https://twitter.com/mr_dev_a13" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_dev_a13" height="30" width="40" />
@@ -45,7 +48,9 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.dev_a13" height="30" width="40" />
     </a>
 </p>
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
+
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
@@ -93,7 +98,9 @@
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> 
     </a> 
 </p>
+
 <h3 align="left">📈 Language / Framework stats:</h3> 
+
 <p>
   <img width="49.2%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrDev-A13&show_icons=true&locale=en&layout=compact" alt="MrDev-A13"/>
   <img width="49.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrDev-A13&layout=compact" alt="MrDev-A13" />

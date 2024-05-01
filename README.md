@@ -101,13 +101,13 @@
 
 <h3 align="left">📈&nbsp; Language / Framework stats:</h3> 
 <p>
-  <img width="49.2%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A13-Cloud&show_icons=true&locale=en&layout=compact"          alt="A13-Cloud" />
-  <img width="49.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=A13-Cloud&layout=compact" alt="A13-Cloud" />
+  <img width="49.2%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrDev-A13&show_icons=true&locale=en&layout=compact"          alt="MrDev-A13" />
+  <img width="49.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrDev-A13&layout=compact" alt="MrDev-A13" />
 </p>
 
 <p>
   <img 
        width="100%" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=A13-Cloud&show_icons=true&locale=en&layout=compact"              alt="A13-Cloud"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=MrDev-A13&show_icons=true&locale=en&layout=compact"              alt="MrDev-A13"
   />
 </p>

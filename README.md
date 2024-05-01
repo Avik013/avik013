@@ -32,7 +32,7 @@
   ```
 </details>
 
-<h3 align="left">🔗 Connect with Me:</h3>
+<h3 align="left">Connect with Me:</h3>
 
 <p align="left">
     <a href="https://twitter.com/mr_dev_a13" target="blank">
